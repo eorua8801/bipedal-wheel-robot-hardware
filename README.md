@@ -11,12 +11,17 @@ Licensed under the [CERN Open Hardware Licence v2](LICENSE).
 /
 ├── CAD/
 │   ├── Assembly/          # Full assembly and sub-assembly CAD files
+│   ├── battery_and_cage/  # Battery holder and cage CAD files
 │   └── Print/             # 3D-printable parts (FDM, PLA, Black)
 ├── BOM/
 │   └── BOM.md             # Bill of Materials
 ├── README.md
 └── README_ko.md
 ```
+
+> **CAD files are distributed via [GitHub Releases](../../releases).**
+> The CAD folders in this repository define the structure only.
+> Download the latest release to get all F3D, STEP, STL, and 3MF files.
 
 ---
 

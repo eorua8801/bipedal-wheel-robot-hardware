@@ -11,12 +11,17 @@
 /
 ├── CAD/
 │   ├── Assembly/          # 전체 조립 및 서브 어셈블리 CAD 파일
+│   ├── battery_and_cage/  # 배터리 홀더 및 케이지 CAD 파일
 │   └── Print/             # 3D 출력 파트 (FDM, PLA, 블랙)
 ├── BOM/
 │   └── BOM.md             # 부품 목록
 ├── README.md
 └── README_ko.md
 ```
+
+> **CAD 파일은 [GitHub Releases](../../releases)를 통해 배포됩니다.**
+> 레포지토리 내 CAD 폴더는 구조 정의용입니다.
+> 최신 릴리즈를 다운로드하면 F3D, STEP, STL, 3MF 파일을 모두 받을 수 있습니다.
 
 ---
 
