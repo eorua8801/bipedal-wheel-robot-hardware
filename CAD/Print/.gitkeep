@@ -1,0 +1,14 @@
+Place 3D print files here.
+
+Formats: STL, 3MF (F3D, STEP optional)
+Material: PLA, Black, FDM
+Symmetry: Same files used for both legs.
+
+Files (qty per leg):
+- BalanceArm_R ×2
+- Head_R ×1
+- LowerArm_Bearing_R ×1
+- LowerArm_Motor_R ×1
+- UpperArm_Bearing_R ×1
+- UpperArm_Motor_R ×1
+- Wheel_R ×1
